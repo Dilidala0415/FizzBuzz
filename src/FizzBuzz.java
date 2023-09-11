@@ -13,6 +13,7 @@ class FizzBuzz {
     }
 
     private static int testFB(int i) {
+
         boolean divisibleBy3 = i % 3 == 0;
         boolean divisibleBy5 = i % 5 == 0;
 
