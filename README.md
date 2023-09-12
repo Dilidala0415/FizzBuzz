@@ -62,6 +62,7 @@ Formally as a coding task, let `i` be a positive integer and output the followin
 * If `i` is divisible by 3 and 5, print the string `Fizz Buzz` (note the space)
 * Otherwise, print the value of `i`
 
+
 So, starting with `i = 1` and counting until `i = 6` we would get:
 
 ```
